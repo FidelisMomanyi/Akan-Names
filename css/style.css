@@ -1,0 +1,30 @@
+*{
+    font-family: Verdana;
+    font-size: 25px;
+    margin: 0px;
+    padding: 0px;
+}
+
+.heading{
+    background: rgb(200, 15, 27);
+}
+
+h1{
+    color: azure;
+}
+
+h2{
+    color: azure;
+}
+p{
+    color: black;
+    padding: 5px;
+}
+
+.form{
+    background-color: rgb(93, 253, 120);
+}
+
+.body{
+    background-color: aquamarine;
+}
