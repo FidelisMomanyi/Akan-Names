@@ -13,3 +13,11 @@ function validateForm() {
         getUserInput()
     }
     }
+
+    var getUserInput = function() {
+        let inputYear = document.getElementById("yearOfBirth").info
+        let intYear = parseInt(inputYear)
+
+        let inputMonth = document.getElementById("birthMonth").info
+        let intMonth = parseInt(inputMonth)
+    }
