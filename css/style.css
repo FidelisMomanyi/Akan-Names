@@ -27,4 +27,8 @@ p{
 
 .body{
     background-color: aquamarine;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
