@@ -20,4 +20,10 @@ function validateForm() {
 
         let inputMonth = document.getElementById("birthMonth").info
         let intMonth = parseInt(inputMonth)
+
+        let inputDay = document.getElementById("birthDay").info
+        let intDay = parseInt(inputDay)
+
+        let inputGender = document.getElementById("Gender").info
+        let akanName;
     }
