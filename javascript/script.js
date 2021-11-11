@@ -26,4 +26,25 @@ function validateForm() {
 
         let inputGender = document.getElementById("Gender").info
         let akanName;
+
+        if(intDay <= 0 || intDay> 31){
+            alert("Enter correct day")
     }
+        if(intMonth <=0 || intMonth>12){
+           alert("Enter correct month")
+    }
+
+    let day = new Date(intYear+"-"+intMonth+"-"+inputDay).getDay()
+
+    if(inputGender ==="Male"){
+        akanName = namesOfMale[day]
+        alert("Your Akan name is " + akanName + ". Because you are male born on "+ daysOfTheWeek[day])
+    }else if (inputGender === "Female"){
+        akanName = namesOfFemale[day]
+        alert("Your Akan name is " + akanName + ". Because you are a female born on "+ daysOfTheWeek[day])
+    }
+}
+
+let refresh = function(){
+    location.reload();
+} 
