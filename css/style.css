@@ -16,6 +16,11 @@ h1{
 h2{
     color: azure;
 }
+
+h3{
+    color: black;
+}
+
 p{
     color: black;
     padding: 5px;
