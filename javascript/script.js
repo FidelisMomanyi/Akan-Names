@@ -49,6 +49,6 @@ var getUserInput = function() {
     }
 }
 
-let reset = function(){
+let refresh = function(){
     location.reload();
 } 
