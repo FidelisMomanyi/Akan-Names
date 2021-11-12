@@ -37,4 +37,4 @@ Incase of any queries you can reach me at;
 fidelismomanyi001@gmail.com
 ```
 ### License
-This software is under the [MIT](LICENSE) license. Copyright (c) 2021 **Fidelis Momanyi**
+This software is under the [MIT](License) license. Copyright (c) 2021 **Fidelis Momanyi**
