@@ -12,6 +12,7 @@ This Project is a web application that takes a user's birthday and calculates th
 https://fidelismomanyi.github.io/Akan-Names/
 ## Known Bugs
 Not sure about the whole running of the system if you find an issue feel free to correct it.
+Refresh button works on mp pc but it isn't working on gh-pages.
 ## Technologies Used
 1. HyperText Markup Language (HTML)
 2. Cascading Style Sheet (CSS)
