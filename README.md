@@ -18,13 +18,6 @@ Not sure about the whole running of the system if you find an issue feel free to
 3. Global Information Tracker (Git)
 4. Javascript
 5. Bootstrap
-
-##   Behavioral Driven Development (BDD)
-    Helps to display Form For Entering Date and Gender INPUT: "User's Date of Birth Entered" INPUT:"User's Gender Entered" OUTPUT:"Display User's Akan Name from the date Submitted and Gender"
-    Displays an Error Message if Date input is left Blank INPUT: "" OUTPUT:"Displays an Error Message"
-    Displays an Error Message if Gender is not chosen INPUT: "" OUTPUT: "Clears and Refreshes the Form"
-    Clears the Form and Refresh the Click INPUT:"Click Clear Selection Button" OUTPUT:"Clears and Refreshes the form"
-
 ## Support and contact details
 I am currently a sudent at the Moringa School, pursuing a Software in Development.
 Incase of any queries you can reach me at;
