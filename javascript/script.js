@@ -15,16 +15,16 @@ function validateForm() {
     }
 
     var getUserInput = function() {
-        let inputYear = document.getElementById("yearOfBirth").info
+        let inputYear = document.getElementById("yearOfBirth").value
         let intYear = parseInt(inputYear)
 
-        let inputMonth = document.getElementById("birthMonth").info
+        let inputMonth = document.getElementById("birthMonth").value
         let intMonth = parseInt(inputMonth)
 
-        let inputDay = document.getElementById("birthDay").info
+        let inputDay = document.getElementById("birthDay").value
         let intDay = parseInt(inputDay)
 
-        let inputGender = document.getElementById("Gender").info
+        let inputGender = document.getElementById("Gender").value
         let akanName;
 
         if(intDay <= 0 || intDay> 31){
